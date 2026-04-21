@@ -71,7 +71,7 @@ comerciales en los productos de mayor valor.
 
 ✔️ Segmentación de clientes
 
-Se identificaron segmentos clave que generan hasta un 65% de los ingresos, lo que permite personalizar campañas y mejorar la conversión.
+Se identificaron segmentos clave que generan hasta un 65% de los ingresos, lo que permite personalizar campañas y mejorar la conversión. de entre 15% y 25%.
 
 ✔️ Patrones de compra
 
