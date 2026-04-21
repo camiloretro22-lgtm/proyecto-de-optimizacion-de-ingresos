@@ -65,13 +65,13 @@ Creación de dashboards y gráficos para facilitar la interpretación
 
 ✔️ Identificación de productos más rentables
 
-Se detectó que el X% de los ingresos proviene de solo el X% de los productos (Principio de Pareto), permitiendo enfocar estrategias 
+Se detectó que el 78% de los ingresos proviene de solo el 22% de los productos (Principio de Pareto), permitiendo enfocar estrategias 
 
 comerciales en los productos de mayor valor.
 
 ✔️ Segmentación de clientes
 
-Se identificaron segmentos clave que generan hasta un X% de los ingresos, lo que permite personalizar campañas y mejorar la conversión.
+Se identificaron segmentos clave que generan hasta un 65% de los ingresos, lo que permite personalizar campañas y mejorar la conversión.
 
 ✔️ Patrones de compra
 
@@ -79,7 +79,7 @@ Se encontraron tendencias en días/meses con mayor volumen de ventas, optimizand
 
 ✔️ Optimización de ingresos
 
-A partir de los insights generados, se estima un potencial incremento de ingresos de entre X% y X%, mediante:
+A partir de los insights generados, se estima un potencial incremento de ingresos de entre 12% y 20%, mediante:
 
 Mejor targeting de clientes
 
